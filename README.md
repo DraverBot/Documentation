@@ -1,2 +1,2 @@
 # Documentation
-Documentation of Yeisky bot.
+Documentation of Oracle bot.
