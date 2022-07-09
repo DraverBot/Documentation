@@ -19,7 +19,7 @@ Vous pouvez configurer le bot via la commande `+set`
 ![Page de configuration](https://media.discordapp.net/attachments/976356791451529236/976356821428240384/unknown.png)
 
 ## Documentation commande par commande
-Toutes les commandes sont répertoriées dans cette documentation, [à cette adresse](https://github.com/Greensky-gs/gs-bot-doc/blob/main/commands)
+Toutes les commandes sont répertoriées dans cette documentation, [à cette adresse](https://github.com/BotOracle/Documentation/blob/main/commands)
  
   
 ## En développement
