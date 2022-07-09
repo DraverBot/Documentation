@@ -13,7 +13,7 @@ Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs
 
 ## Support
 * [Serveur support](https://discord.gg/G7QDcNkvPS)
-* [Page top.gg](https://top.gg/bot/810823531947884554)
+* [Page top.gg](https://top.gg/bot/991365898776625204)
   
 ## Configuration
 Le préfixe par défaut du bot est `+`.
