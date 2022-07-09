@@ -4,10 +4,10 @@
   </a>
 </p>
 
-# Documentation d'Oracle
+## Documentation d'Oracle
 Documentation d'[Oracle](https://bit.ly/3NUdTvE)
 
-# Introduction
+## Introduction
 [Oracle](https://bit.ly/3NUdTvE) est un bot **français** multifonctions, dont le but principal est d'amuser les membres de votre serveur.
 C'est pour cette raison qu'il y a plusieurs easter eggs et références cachées sur le bot.
 
