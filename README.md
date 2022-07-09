@@ -9,7 +9,7 @@ C'est pour cette raison qu'il y a plusieurs easter eggs et références cachées
 Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#en-développement)  
 
 ## Support
-* [serveur de support](https://discord.gg/G7QDcNkvPS)
+* [Serveur support](https://discord.gg/G7QDcNkvPS)
 * [Page top.gg](https://top.gg/bot/810823531947884554)
   
 ## Configuration
