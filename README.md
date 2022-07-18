@@ -7,7 +7,7 @@
  <h3 align="center">Oracle</h3>
 
   <p align="center">
-   A suggestion-focused Discord bot in more than 30,000 servers
+   Oracle est un bot francophone, utilisant les slash commandes.
     <br />
     <a href="https://github.com/BotOracle/Documentation"><strong>Explore the docs »</strong></a>
     <br />
