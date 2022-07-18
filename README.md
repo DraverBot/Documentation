@@ -4,16 +4,34 @@
   </a>
 </p>
 
+ <h3 align="center">Oracle</h3>
+
+  <p align="center">
+   A suggestion-focused Discord bot in more than 30,000 servers
+    <br />
+    <a href="https://github.com/BotOracle/Documentation"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://discord.com/api/oauth2/authorize?client_id=991365898776625204&permissions=8&scope=bot%20applications.commands">Invite</a>
+    ·
+    <a href="https://discord.gg/bQ67MuRN3p">Support Server</a>
+  </p>
+</div>
+<p align="center">
+  <a href=" " target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Made with JS" />
+  </a>
+  <a href="https://twitter.com/Yeikzy" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
 ## Introduction
 [Oracle](https://bit.ly/3NUdTvE) est un bot **français** multifonctions, dont le but principal est d'amuser les membres de votre serveur.
 C'est pour cette raison qu'il y a plusieurs easter eggs et références cachées sur le bot.
 
 [Oracle](https://bit.ly/3NUdTvE) est en développement.
 Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#en-développement)  
-
-## Support
-* [Serveur support](https://discord.gg/rkPVmVq7f5)
-* [Page top.gg](https://top.gg/bot/991365898776625204)
   
 ## Configuration
 Le préfixe par défaut du bot est `+`.
