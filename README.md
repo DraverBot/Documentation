@@ -31,8 +31,7 @@
 C'est pour cette raison qu'il y a plusieurs easter eggs et références cachées sur le bot.
 
 [Oracle](https://bit.ly/3NUdTvE) est en développement.
-Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#en-développement)  
-  
+
 ## Configuration
 Le préfixe par défaut du bot est `+`.
 Vous pouvez configurer le bot via la commande `+set`
@@ -41,17 +40,12 @@ Vous pouvez configurer le bot via la commande `+set`
 
 ## Documentation commande par commande
 Toutes les commandes sont répertoriées dans cette documentation, [à cette adresse](https://github.com/BotOracle/Documentation/blob/main/commands)
- 
-  
-## En développement
-[Oracle](https://bit.ly/3NUdTvE) est toujours en développement
 
-#### Catégories de commandes en développement
-* Rôle à réaction
-  
-#### Commandes en développement
-* `+crypt`
-* `+decrypt`
-  
+## Slash commandes
+[Oracle](https://bit.ly/3NUdTvE) utilise de plus en plus les "slash commandes", qui sont des commandes utilisables en commençant votre messsage par `/`
+![Slash-commandes](https://cdn.discordapp.com/attachments/976356791451529236/1006215620905414776/unknown.png)
+
+Les Slash commandes sont listées par catégories dans [la partie slash commandes](./slash-commands)
+
 ## Bugs
-Si vous rencontrez un bug, une erreur ou autre disfonctionnement, contactez le développeur sur [le support](https://discord.gg/G7QDcNkvPS)
+Si vous rencontrez un bug, une erreur ou autre dysfonctionnement, ou simplement contacter le devéloppeur, rejoignez [le support](https://discord.gg/Qt9Ns3uvYe)
