@@ -1,13 +1,12 @@
-   <p align="center"><img align="center" width="90" src="./.github/img/logo-white.png#gh-dark-mode-only"/></p>
-   <p align="center"><img align="center" width="90" src="./.github/img/logo-black.png#gh-light-mode-only"/></p>
+   <p align="center"><img align="center" width="90" src="https://github.com/DraverBot/Documentation/blob/main/.github/img/DraverLogo.png"/></p>
 
   </a>
 </p>
 
- <h3 align="center">Oracle</h3>
+ <h3 align="center">Draver</h3>
 
   <p align="center">
-   Oracle est un bot francophone, utilisant les slash commandes.
+   Draver est un bot francophone, utilisant les slash commandes.
     <br />
     <a href="https://github.com/BotOracle/Documentation"><strong>Explore the docs »</strong></a>
     <br />
