@@ -1,4 +1,4 @@
-   <p align="center"><img align="center" width="90" src="https://github.com/DraverBot/Documentation/blob/main/.github/img/DraverLogo.png"/></p>
+   <p align="center"><img align="center" width="90" src=".github/img/DraverLogo.png"/></p>
 
   </a>
 </p>
